@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Open with XnView
+Comment=Open with XnView
+Exec=xnviewmp %F
+Icon-Name=/opt/xnviewmp/xnview.png
+Selection=any
+Extensions=any
+Dependencies=xnviewmp

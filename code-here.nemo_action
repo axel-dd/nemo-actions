@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Open VS Code here
+Comment=Open VS Code here
+Exec=code-oss --no-sandbox --unity-launch %F
+Icon-Name=code-oss
+Selection=any
+Extensions=any
+Dependencies=code-oss

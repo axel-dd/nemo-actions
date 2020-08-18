@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Open with Disk Usage Analyzer
+Comment=Open with Disk Usage Analyzer
+Exec=baobab %F
+Icon-Name=org.gnome.baobab
+Selection=any
+Extensions=any
+Dependencies=baobab
